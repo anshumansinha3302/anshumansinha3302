@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301" alt="anshumansinha3301" /></a> </p>
-
 - 🔭 I’m currently working on **Bitfusion Dynamics Research**
 
 - 🌱 I’m currently learning **Data Science**
@@ -20,8 +18,8 @@
 <a href="https://hashnode.com/https://hashnode.com/@anshumansinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@anshumansinha" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumansinha3301&show_icons=true&locale=en&layout=compact" alt="anshumansinha3301" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumansinha3302&show_icons=true&locale=en&layout=compact" alt="anshumansinha3302" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3301&show_icons=true&locale=en" alt="anshumansinha3301" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3302&show_icons=true&locale=en" alt="anshumansinha3302" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3302&" alt="anshumansinha3302" /></p>
