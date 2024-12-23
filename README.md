@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Software Developer @Xyphor Advisors | BCA @Amity University Patna | Bitfusion Dynamics</h3>
 
 - 🔭 I’m currently working on **Bitfusion Dynamics Research**
 
